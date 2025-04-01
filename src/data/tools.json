@@ -363,7 +363,7 @@
           ]
         }
       ],
-      "addedOn": "2024-02-24",
+      "addedOn": "2025-04-01",
       "recommendedBy": null,
       "imageUrl": "/images/tools/canopy.svg"
     },
@@ -416,7 +416,7 @@
           ]
         }
       ],
-      "addedOn": "2024-02-24",
+      "addedOn": "2025-04-01",
       "recommendedBy": null,
       "imageUrl": "/images/tools/cartesia.svg"
     },
@@ -737,7 +737,7 @@
           ]
         }
       ],
-      "addedOn": "2024-02-24",
+      "addedOn": "2025-04-01",
       "recommendedBy": "Lamar",
       "imageUrl": "/images/tools/daily.svg"
     },
@@ -857,7 +857,7 @@
       "title": "Descript",
       "status": "Using",
       "category": "Other",
-      "description": "Audio/video editing and transcription with AI features",
+      "description": "Audio/video editing and transcription with AI features. Using Turboscribe more often now for pure transcription processing due to cost.",
       "howToUse": [
         "Creating tutorial videos",
         "Transcribing audio content",
@@ -865,7 +865,8 @@
         "Quick video edits"
       ],
       "caveats": [
-        "Advanced video editing might require other tools"
+        "Advanced video editing might require other tools",
+        "Transcription can be more expensive than dedicated services like Turboscribe"
       ],
       "url": "https://www.descript.com/",
       "useCases": [],
@@ -1456,7 +1457,7 @@
           ]
         }
       ],
-      "addedOn": "2024-02-24",
+      "addedOn": "2025-04-01",
       "recommendedBy": "Dallas",
       "imageUrl": "/images/tools/gamma.svg"
     },
@@ -3221,7 +3222,7 @@
           ]
         }
       ],
-      "addedOn": "2024-02-24",
+      "addedOn": "2025-04-01",
       "recommendedBy": null,
       "imageUrl": "/images/tools/syncity.svg"
     },
@@ -4023,7 +4024,7 @@
           ]
         }
       ],
-      "addedOn": "2024-02-24",
+      "addedOn": "2025-04-01",
       "recommendedBy": null,
       "imageUrl": "/images/tools/rork.svg"
     },
@@ -4076,7 +4077,7 @@
           ]
         }
       ],
-      "addedOn": "2024-02-24",
+      "addedOn": "2025-04-01",
       "recommendedBy": null,
       "imageUrl": "/images/tools/composio.svg"
     },
@@ -4129,7 +4130,7 @@
           ]
         }
       ],
-      "addedOn": "2024-02-24",
+      "addedOn": "2025-04-01",
       "recommendedBy": "Lamar",
       "imageUrl": "/images/tools/tavus.svg"
     },
@@ -4182,9 +4183,58 @@
           ]
         }
       ],
-      "addedOn": "2024-02-24",
+      "addedOn": "2025-04-01",
       "recommendedBy": null,
       "imageUrl": "/images/tools/teleprompter.svg"
+    },
+    {
+      "id": "turboscribe",
+      "title": "Turboscribe",
+      "status": "Using",
+      "category": "Productivity",
+      "description": "AI-powered transcription service for audio and video files, offering a cost-effective alternative to Descript for transcription processing.",
+      "howToUse": [
+        "Upload audio or video files",
+        "Select transcription language",
+        "Receive transcriptions",
+        "Export transcripts in various formats"
+      ],
+      "caveats": [
+        "Accuracy may vary depending on audio quality",
+        "Focuses primarily on transcription, fewer editing features than Descript",
+        "Free tier has limitations on file size or usage"
+      ],
+      "url": "https://turboscribe.ai/",
+      "useCases": [
+        {
+          "title": "Transcription",
+          "items": [
+            "Transcribing interviews",
+            "Meeting transcription",
+            "Video content transcription",
+            "Audio note conversion"
+          ]
+        },
+        {
+          "title": "Cost Efficiency",
+          "items": [
+            "Affordable transcription processing",
+            "Alternative to more expensive platforms",
+            "Pay-per-use or subscription options"
+          ]
+        },
+        {
+          "title": "Workflow Integration",
+          "items": [
+            "API access for automation",
+            "Bulk file processing",
+            "Integration with other tools"
+          ]
+        }
+      ],
+      "addedOn": "2025-04-01",
+      "recommendedBy": null,
+      "imageUrl": "/images/tools/turboscribe.svg"
     }
   ]
 }
