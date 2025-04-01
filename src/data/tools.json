@@ -425,7 +425,7 @@
       "title": "ChatGPT",
       "status": "Using",
       "category": "AI",
-      "description": "OpenAI's flagship conversational AI model",
+      "description": "OpenAI's flagship conversational AI model. Currently using the Pro version for unlimited quota.",
       "howToUse": [
         "Brainstorming new product ideas",
         "Drafting blog post outlines",
@@ -433,7 +433,7 @@
         "Voice mode for hands-free use"
       ],
       "caveats": [
-        "Knowledge cutoff date limits newest info"
+        "Knowledge cutoff date limits newest info, though Pro access helps."
       ],
       "url": "https://chat.openai.com/",
       "useCases": [],
@@ -4132,6 +4132,59 @@
       "addedOn": "2024-02-24",
       "recommendedBy": "Lamar",
       "imageUrl": "/images/tools/tavus.svg"
+    },
+    {
+      "id": "teleprompter",
+      "title": "Teleprompter",
+      "status": "Trying",
+      "category": "Productivity",
+      "description": "Free iOS app for turning an iPhone or iPad into a teleprompter with text mirroring and script management",
+      "howToUse": [
+        "Create or import scripts",
+        "Configure scroll speed and text size",
+        "Use mirroring for on-camera rigs",
+        "Record video while reading script",
+        "Control remotely via browser or AirPlay"
+      ],
+      "caveats": [
+        "iOS/iPadOS only",
+        "Free version has ads or feature limits",
+        "Remote control might require premium",
+        "Requires practice for natural delivery"
+      ],
+      "url": "https://apps.apple.com/us/app/teleprompter/id941620509",
+      "useCases": [
+        {
+          "title": "Video Recording",
+          "items": [
+            "Scripted video content",
+            "Product demonstrations",
+            "Tutorial creation",
+            "News reporting style"
+          ]
+        },
+        {
+          "title": "Public Speaking",
+          "items": [
+            "Presentation practice",
+            "Speech delivery aid",
+            "Lecture notes",
+            "Performance lyrics"
+          ]
+        },
+        {
+          "title": "Script Management",
+          "items": [
+            "Unlimited script storage",
+            "Script organization",
+            "Cloud synchronization",
+            "Import/Export scripts"
+          ]
+        }
+      ],
+      "addedOn": "2024-02-24",
+      "recommendedBy": null,
+      "imageUrl": "/images/tools/teleprompter.svg"
     }
   ]
 }
